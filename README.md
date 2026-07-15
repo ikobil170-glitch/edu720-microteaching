@@ -5,7 +5,7 @@ A live booking page for the EDU720 Microteaching Workshop with automatic slot ma
 
 ## Features
 
-✅ **Live Slot Management** - Slots close automatically when full (8 students per slot)  
+✅ **Live Slot Management** - Slots close automatically when full (10 students per slot)  
 ✅ **Real-time Data Collection** - Bookings saved to Supabase database  
 ✅ **Color-coded Schedule** - Different times and days visually organized  
 ✅ **Email Validation** - Built-in form validation  
